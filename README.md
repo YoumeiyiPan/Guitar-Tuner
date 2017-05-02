@@ -1,5 +1,7 @@
 # GuitarTuner
-Xcode 8.3 & Swift 3 
+Xcode 8.3 & Swift 3.0
+
+don't upload folder(too much files): pd-for-ios 
 
 A simple GuitarTuner, build from scratch. 
 
