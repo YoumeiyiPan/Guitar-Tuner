@@ -1,2 +1,6 @@
-# iOS-APPs
-All the apps here are all built by myself from scratch. 
+# GuitarTuner
+Xcode 8.3 & Swift 3 
+
+A simple GuitarTuner, build from scratch. 
+
+
